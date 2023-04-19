@@ -20,5 +20,6 @@
 
 	<loadAfter>
 		<li>Ludeon.RimWorld.Biotech</li>
+		<li>danceninja.lifterplzdomorejobs</li>
 	</loadAfter>
 </ModMetaData>
