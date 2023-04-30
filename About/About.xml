@@ -6,10 +6,7 @@
 		<li>1.4</li>
 	</supportedVersions>
 	<packageId>onekun.LifterPlzDoMoreJobsPATCH</packageId>
-	<description>
-		<li>- Make lifter not be able to strip.</li>
-		</description>
-	
+	<description>Makes lifter not be able to strip.</description>
 	<modDependencies>
 		<li>
 			<packageId>Ludeon.RimWorld.Biotech</packageId>
